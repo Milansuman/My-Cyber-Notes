@@ -12,5 +12,3 @@ apt install apache2 php sqlite php-sqlite3
 ```
 
 Clone the repository and copy its contents to the web root (`/var/www/html` in ubuntu)
-
----
