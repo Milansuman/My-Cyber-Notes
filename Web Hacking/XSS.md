@@ -16,5 +16,8 @@ Stored XSS occurs when user input is stored on the target server(i.e. Databases,
 An unsuspecting victim retreives the XSS payload and the payload is executed on the victim's
 browser.
 
-> View INSTRUCTIONS.md in the Stored XSS folder to setup the lab environment
+## Reflected XSS
+
+Reflected XSS occurs when the payload is displayed on the webpage through an error, search result
+or other similar responses. Unlike Stored XSS, it is not stored on the webserver.
 
