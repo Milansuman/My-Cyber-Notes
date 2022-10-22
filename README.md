@@ -1,8 +1,6 @@
 # My-Cyber-Notes
 A repository of all my cybersecurity notes.
 
----
-
 # Setup
 
 Install `apache2`, `php`,`sqlite3` and `php-sqlite3`
