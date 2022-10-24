@@ -25,6 +25,9 @@
 
         div{
             padding-top: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
         }
     </style>
 </head>
@@ -32,6 +35,7 @@
     <div>
         <h2>Web Hacking</h2>
         <a href="/Web Hacking/Stored XSS/index.php">Stored XSS</a>
+        <a href="/Web Hacking/Reflected XSS/index.php">Reflected XSS</a>
     </div>
 </body>
 </html>

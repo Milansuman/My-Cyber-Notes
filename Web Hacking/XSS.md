@@ -4,11 +4,10 @@ Cross Site Scripting (XSS) attacks are attacks in which malicious scrripts are i
 into a website. XSS injections consist of scripts that run on the client side, typically
 written in Javascript.
 
-There are three forms of XSS attacks.
+There are two forms of XSS attacks.
 
 - Stored XSS
 - Reflected XSS
-- DOM Based XSS
 
 ## Stored XSS
 
